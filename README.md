@@ -37,5 +37,6 @@ The program runs on a looping main menu.
 Input (type and enter) the number next to the option you'd like at the main menu.
 Input 7 on the main menu to exit the program. 
 
-
-![Screengrab of program's menu](https://postimg.cc/Fftv2CpN)
+<picture>
+<img alt="Screengrab of program's menu" src="https://i.postimg.cc/43y3Hrh7/usage-final-Capstone.jpg">
+</picture>
