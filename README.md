@@ -1,7 +1,7 @@
-# finalCapstone
+# NikeStockTakes
 
 #### Point/ importance of the project: 
-finalCapstone project uses object-oriented programming to create a solution to optimise
+NikeStockTakes project uses object-oriented programming to create a solution to optimise
 stock-takes for Nike warehouses. 
 
 #### Brief description of project: 
